@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-theme-bodiless",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Chris Oden <coden@its.jnj.com>",
+  "homepage": "",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://sourcecode.jnj.com/scm/asx-nbfp/slate_gatsby.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
